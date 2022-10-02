@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/0f39574d-d756-48cf-b622-0e27a6943bd2/resourceGroups/1-fe9e113d-playground-sandbox/providers/Microsoft.Web/sites/devconnector-abhi",
+  "appService.deploySubpath": "."
+}
